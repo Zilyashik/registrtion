@@ -1,0 +1,22 @@
+.auto-submit{
+    margin-top: 80px;
+    text-align: center;
+}
+button{
+    border-radius: 50px;
+    border-color: #C4C4C4;
+    font-size: 24px;
+    width: 314px;
+    height: 76px;
+    font-family: sans-serif;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+button:active{
+    background-color: white;
+    color: black;
+}

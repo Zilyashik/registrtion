@@ -1,0 +1,13 @@
+.all{
+    margin-top: 70px;
+    margin-bottom: 170px;
+
+}
+.block {
+    min-width: 50%;
+    min-height: 50%;
+    margin-left: 40%;
+}
+.ou{
+    border: 2px solid black;
+}

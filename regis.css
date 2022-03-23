@@ -1,0 +1,18 @@
+input{
+    margin-top: 40px;
+    border-bottom: 1px solid white;
+    background-color: rgba(128, 128, 128, 0.5);
+    color: white;
+    width: 460px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+input:focus{
+    box-shadow: 0 0 10px white;
+
+}
+
+.regis{
+    text-align: center;
+}

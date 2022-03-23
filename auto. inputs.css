@@ -1,0 +1,12 @@
+input{
+    margin-top: 40px;
+    border-bottom: 1px solid white;
+    background-color: black;
+    color: white;
+    width: 460px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.auto{
+    text-align: center;
+}
